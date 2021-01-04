@@ -2,7 +2,7 @@
 
 ## AP006：为什么：关于因果关系的新科学
 
-本次读书会所使用的主要文本是 Judea Pearl 与 Dana Mackenzie 的 *The Book of Why : The New Science of Cause and Effect* （译版为《为什么：关于因果关系的新科学》）。作者在本书中回答的核心问题是：如何让智能机器像人一样思考？换言之，“强人工智能”可以实现吗？借助因果关系之梯的三个层级逐步深入地揭示因果推理的本质，并据此构建出相应的自动化处理工具和数学分析范式，作者给出了一个肯定的答案。
+本次读书会所使用的主要文本是 Judea Pearl 与 Dana Mackenzie 的 *The Book of Why : The New Science of Cause and Effect* （译版为《为什么：关于因果关系的新科学》）。作者在本书中回答的核心问题是：如何让智能机器像人一样思考？换言之，“强人工智能”可以实现吗？借助因果关系之梯的三个层级逐步深入地揭示因果推理的本质，并据此构建出相应的自动化处理工具和数学分析范式，作者对上述问题给出了一个肯定的答案。
 
 [[点击在线阅读]](https://tquadrivium.github.io/thebookofwhy/)
 
